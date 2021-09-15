@@ -1,3 +1,8 @@
+"""
+This script does a quick decrypt encrypt using the ord() and chr().
+This was done with no explicit declaration of a list data type.
+"""
+
 import os
 
 distance = int(input("Enter the distance value: "))
