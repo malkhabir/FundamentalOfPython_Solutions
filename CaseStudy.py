@@ -1,5 +1,5 @@
 """
-This program computes some indexes in a txt file.
+This program computes the number of sentences in a txt file.
 Sentences ending in "!" and "?" are not taken care of.
 """
 
